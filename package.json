@@ -13,12 +13,5 @@
     "node": "12.x"
   },
 
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express",
-    "Piece",
-    "Serendia"
-  ]
+  "license": "MIT"
 }
