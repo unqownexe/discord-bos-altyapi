@@ -1,6 +1,6 @@
-# Discord.JS V12 Boş altyapı!
+# Discord.JS V13 Boş altyapı!
 
-https://unqown.codes
+https://unqown.xyz
 
 ### İşinize yarayabilecek bazı dökümanlar =>
 https://discord.js.org/<br>
